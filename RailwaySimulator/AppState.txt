@@ -1,0 +1,30 @@
+List of trains:
+Train #0
+Locomotive #0
+Current weight of cargo: 2400
+Railroad Car #1 of Train #0
+Class: class PassengerRailroadCar
+Shipper: Amazon
+Net Weight: 800
+Number of seats: 100
+Railroad Car #3 of Train #0
+Class: class PassengerRailroadCar
+Shipper: Amazon International
+Net Weight: 800
+Number of seats: 1000
+Freight Railroad Car #0 of Train #0
+Shipper: Amazon
+Net Weight: 800
+Gross Weight: 800
+Train #1
+Locomotive #1
+Current weight of cargo: 1600
+Railroad Car #2 of Train #1
+Class: class PassengerRailroadCar
+Shipper: Amazon
+Net Weight: 800
+Number of seats: 100
+Freight Railroad Car #0 of Train #1
+Shipper: Amazon
+Net Weight: 800
+Gross Weight: 800
